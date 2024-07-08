@@ -1,2 +1,2 @@
-# Voice-Assistand
-Python Voice Assistand
+# Voice-Assistant
+Python Voice Assistant
